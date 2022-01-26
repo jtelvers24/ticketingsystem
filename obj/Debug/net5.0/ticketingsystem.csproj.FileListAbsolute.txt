@@ -1,0 +1,15 @@
+/Users/jelvers/Desktop/repos/ticketingsystem/bin/Debug/net5.0/ticketingsystem.deps.json
+/Users/jelvers/Desktop/repos/ticketingsystem/bin/Debug/net5.0/ticketingsystem.runtimeconfig.json
+/Users/jelvers/Desktop/repos/ticketingsystem/bin/Debug/net5.0/ticketingsystem.runtimeconfig.dev.json
+/Users/jelvers/Desktop/repos/ticketingsystem/bin/Debug/net5.0/ticketingsystem.dll
+/Users/jelvers/Desktop/repos/ticketingsystem/bin/Debug/net5.0/ref/ticketingsystem.dll
+/Users/jelvers/Desktop/repos/ticketingsystem/bin/Debug/net5.0/ticketingsystem.pdb
+/Users/jelvers/Desktop/repos/ticketingsystem/obj/Debug/net5.0/ticketingsystem.csproj.AssemblyReference.cache
+/Users/jelvers/Desktop/repos/ticketingsystem/obj/Debug/net5.0/ticketingsystem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jelvers/Desktop/repos/ticketingsystem/obj/Debug/net5.0/ticketingsystem.AssemblyInfoInputs.cache
+/Users/jelvers/Desktop/repos/ticketingsystem/obj/Debug/net5.0/ticketingsystem.AssemblyInfo.cs
+/Users/jelvers/Desktop/repos/ticketingsystem/obj/Debug/net5.0/ticketingsystem.csproj.CoreCompileInputs.cache
+/Users/jelvers/Desktop/repos/ticketingsystem/obj/Debug/net5.0/ticketingsystem.dll
+/Users/jelvers/Desktop/repos/ticketingsystem/obj/Debug/net5.0/ref/ticketingsystem.dll
+/Users/jelvers/Desktop/repos/ticketingsystem/obj/Debug/net5.0/ticketingsystem.pdb
+/Users/jelvers/Desktop/repos/ticketingsystem/obj/Debug/net5.0/ticketingsystem.genruntimeconfig.cache
